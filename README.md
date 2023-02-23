@@ -15,7 +15,7 @@
 
 ## Platforms
 
-<p align="center"> <img src="figures/jackal_figure.pdf" title="" alt="" data-align="center"> </p>
+<p align="center"> <img src="figures/jackal_figure.jpg" title="" alt="" data-align="center"> </p>
 
 ### Data format
 
@@ -39,7 +39,7 @@
 
 ## Ground Truth
 
-<p align="center"> <img src="figures/gt_map_mit.pdf" title="" alt="" data-align="center"> </p>
+<p align="center"> <img src="figures/gt_map_mit.jpg" title="" alt="" data-align="center"> </p>
 
 </div>
 
