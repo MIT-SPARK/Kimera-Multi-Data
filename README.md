@@ -6,7 +6,6 @@
 
 |  Sequence        |  # Robots  |  Traversal (m)    |  Duration (min)  | 
 | ---------------- | ---------- | ----------------- | ---------------- |
-|  Campus-Hanger   |  7         |                   |                  |
 |  Campus-Outdoor  |  6         |  6044             |  19              | 
 |  Campus-Tunnels  |  8         |  6753             |  28              | 
 |  Campus-Hybrid   |  8         |  7785             |  27              |
@@ -54,8 +53,6 @@ We provide the calibration between the sensors.
 
 | Name | Rosbags | GT | Photos | Trajectory | 
 |:-:|:-:|:-:|:-:|:-:|
-| Campus-Hanger  | [link](https://xkcd.com/1906/)                | [link](https://drive.google.com/drive/folders/1h6Lajyw52Ud7gsl515DSpeOMRzjDDRjt?usp=share_link) | TODO                                                              |  |
-| Campus-Outdoor | [link](https://xkcd.com/1906/)                | [link](https://drive.google.com/drive/folders/1Pcmm3OVWVAMJvRtRbfHy1H6ecl4VZ07b?usp=share_link) | <img src="figures/photos_outdoor.jpg" alt="drawing" width="400"/> |  |
-| Campus-Tunnels | [link](https://xkcd.com/1906/)                | [link](https://drive.google.com/drive/folders/1pewS3on3ZUma5BqjwP_yg3u-nwBghMzr?usp=share_link) | <img src="figures/photos_tunnels.jpg" alt="drawing" width="400"/> |  | 
-| Campus-Hybrid  | [link](https://xkcd.com/1906/)                | [link](https://drive.google.com/drive/folders/1Gyw9E8j_9zlzklhPFy4VcKsgnr6oSiu1?usp=share_link) | <img src="figures/photos_hybrid.jpg" alt="drawing" width="400"/>  |  |
-
+| Campus-Outdoor | [link](https://xkcd.com/1906/)                | [link](https://drive.google.com/drive/folders/1Pcmm3OVWVAMJvRtRbfHy1H6ecl4VZ07b?usp=share_link) | <img src="figures/photos_outdoor.jpg" alt="drawing" width="400"/> | <img src="figures/1014_gt.png" alt="drawing" width="400"/> |
+| Campus-Tunnels | [link](https://xkcd.com/1906/)                | [link](https://drive.google.com/drive/folders/1pewS3on3ZUma5BqjwP_yg3u-nwBghMzr?usp=share_link) | <img src="figures/photos_tunnels.jpg" alt="drawing" width="400"/> | <img src="figures/1207_gt.png" alt="drawing" width="400"/> | 
+| Campus-Hybrid  | [link](https://xkcd.com/1906/)                | [link](https://drive.google.com/drive/folders/1Gyw9E8j_9zlzklhPFy4VcKsgnr6oSiu1?usp=share_link) | <img src="figures/photos_hybrid.jpg" alt="drawing" width="400"/>  | <img src="figures/1208_gt.png" alt="drawing" width="400"/> |
