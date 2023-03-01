@@ -50,9 +50,11 @@ We provide the calibration between the sensors.
 ## Citation
 
 ## Download
+Due to Institute policy, we cannot directly post the links for dataset download.
+Please click on the link below and fill out the form. We will try to respond with the link as soon as possible.
 
 | Name | Rosbags | GT | Photos | Trajectory | 
 |:-:|:-:|:-:|:-:|:-:|
-| Campus-Outdoor | [link](https://xkcd.com/1906/)                | [link](https://drive.google.com/drive/folders/1Pcmm3OVWVAMJvRtRbfHy1H6ecl4VZ07b?usp=share_link) | <img src="figures/photos_outdoor.jpg" alt="drawing" width="400"/> | <img src="figures/1014_gt.png" alt="drawing" width="400"/> |
-| Campus-Tunnels | [link](https://xkcd.com/1906/)                | [link](https://drive.google.com/drive/folders/1pewS3on3ZUma5BqjwP_yg3u-nwBghMzr?usp=share_link) | <img src="figures/photos_tunnels.jpg" alt="drawing" width="400"/> | <img src="figures/1207_gt.png" alt="drawing" width="400"/> | 
-| Campus-Hybrid  | [link](https://xkcd.com/1906/)                | [link](https://drive.google.com/drive/folders/1Gyw9E8j_9zlzklhPFy4VcKsgnr6oSiu1?usp=share_link) | <img src="figures/photos_hybrid.jpg" alt="drawing" width="400"/>  | <img src="figures/1208_gt.png" alt="drawing" width="400"/> |
+| Campus-Outdoor | [request](https://forms.gle/EBHJE3LEKkTsnABu7)  | [link](https://drive.google.com/drive/folders/1Pcmm3OVWVAMJvRtRbfHy1H6ecl4VZ07b?usp=share_link) | <img src="figures/photos_outdoor.jpg" alt="drawing" width="400"/> | <img src="figures/1014_gt.png" alt="drawing" width="400"/> |
+| Campus-Tunnels | [request](https://forms.gle/EBHJE3LEKkTsnABu7)  | [link](https://drive.google.com/drive/folders/1pewS3on3ZUma5BqjwP_yg3u-nwBghMzr?usp=share_link) | <img src="figures/photos_tunnels.jpg" alt="drawing" width="400"/> | <img src="figures/1207_gt.png" alt="drawing" width="400"/> | 
+| Campus-Hybrid  | [request](https://forms.gle/EBHJE3LEKkTsnABu7)  | [link](https://drive.google.com/drive/folders/1Gyw9E8j_9zlzklhPFy4VcKsgnr6oSiu1?usp=share_link) | <img src="figures/photos_hybrid.jpg" alt="drawing" width="400"/>  | <img src="figures/1208_gt.png" alt="drawing" width="400"/> |
