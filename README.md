@@ -45,11 +45,6 @@ The datasets are scheduled to be ready by April 5th, 2023.
 
 </div>
 
-## Calibration
-
-We provide the calibration between the sensors.
-
-
 ## Citation
 
 ## Download
