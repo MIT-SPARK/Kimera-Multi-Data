@@ -18,8 +18,9 @@ The datasets are scheduled to be ready by April 5th, 2023.
 ## Platforms
 
 <p align="center"> <img src="figures/jackal_figure.jpg" title="" alt="" data-align="center"> </p>
+
 We use a single set of camera intrinsic and extrinsic parameters for all the robots.
-The parameters follow the [Kimera-VIO](https://github.com/MIT-SPARK/Kimera) format.
+The parameters follow the [Kimera-VIO](https://github.com/MIT-SPARK/Kimera) format and can be downloaded below.
 
 ### Data format
 
