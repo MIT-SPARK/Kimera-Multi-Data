@@ -1,7 +1,4 @@
 # Kimera-Multi-Data: A large-Scale Multi-Robot Dataset for Multi-Robot SLAM 
-> **Note**
-> Due to privacy issues, the datasets are currently being processed to remove any faces or private information.
-The datasets are scheduled to be ready by April 5th, 2023.
 
 ## Description:
 
