@@ -81,3 +81,19 @@ If you found the dataset to be useful, we would appreciate it if you can cite th
 The camera calibration parameters used for our experiments can be found [here](https://drive.google.com/drive/folders/1YlVl2hoqWNwi6GGX6n_MqeNG-aWmeh9r?usp=share_link).
 
 The point cloud of the reference ground truth map can be downloaded [here](https://drive.google.com/file/d/1u5BC8rEQlA0BKoobgmP5GCCi2vJf58oz/view?usp=share_link).
+
+## kmd_tools ROS Package
+
+Clone this repo into your `catkin_ws` to build the `kmd_tools` ROS package. This ROS package provides extrinsic calibration and other helpful tools for replaying the data and developing algorithms using the Kimera Multi Data.
+
+TODO: For ease, create a symlink in this directory called `datadir` to the Kimera Multi Dataset
+
+### Extrinsic Calibration TF Broadcaster
+
+These extrinsics were found by providing a rough initial guess and then refined using the [lidar2camera ](https://github.com/plusk01/lidar2camera) manual calibration tool.
+
+### Odometry Generator
+
+### Pose Graph Generator
+
+pose graph nodes are imu_optical w.r.t viodom

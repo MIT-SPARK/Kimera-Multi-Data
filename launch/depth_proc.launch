@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+    <arg name="robot" default="acl_jackal" />
+    <arg name="camera" default="forward" />
+
+    <group ns="$(arg robot)/$(arg camera)">
+        <node pkg="nodelet" type="nodelet" name="nodelet_manager" args="manager" />
+        <node pkg="nodelet" type="nodelet" name="point_cloud_xyz" args="load depth_image_proc/point_cloud_xyz nodelet_manager">
+            <remap from="camera_info" to="depth/camera_info" />
+            <remap from="image_rect" to="depth/image_rect_raw" />
+            <remap from="points" to="depth/points" />
+        </node>
+    </group>
+
+</launch>
