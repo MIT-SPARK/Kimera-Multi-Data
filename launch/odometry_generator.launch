@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+    <arg name="robot" default="acl_jackal" />
+    <arg name="camera" default="forward" />
+    <arg name="sequence" default="1207" />
+    <arg name="datadir" default="$(find kmd_tools)/datadir" /> <!-- Optional, but required for ground truth -->
+    <arg name="logdir" default="$(find kmd_tools)/logdir" /> <!-- Optional, but required for keyframe timing -->
+
+    <rosparam command="load" file="$(find kmd_tools)/params/robot_names.yaml" />
+
+    <group ns="$(arg robot)">
+        <node pkg="kmd_tools" type="odometry_generator" name="odometry_generator" output="screen">
+            <param name="sequence" value="$(arg sequence)" />
+            <param name="datadir" value="$(arg datadir)" />
+            <param name="logdir" value="$(arg logdir)" />
+        </node>
+    </group>
+
+</launch>

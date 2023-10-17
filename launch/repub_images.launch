@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+    <arg name="robot" default="acl_jackal" />
+    <arg name="camera" default="forward" />
+
+    <group ns="$(arg robot)/$(arg camera)">
+        <group ns="color">
+            <node pkg="image_transport" type="republish" name="republish" args="compressed in:=image_raw raw out:=image_raw" />
+        </group>
+
+<!--         <group ns="depth">
+            <node pkg="image_transport" type="republish" name="republish" args="compressedDepth in:=image_rect_raw raw out:=image_rect_raw" />
+        </group> -->
+    </group>
+
+</launch>
