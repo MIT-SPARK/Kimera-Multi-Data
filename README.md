@@ -81,3 +81,14 @@ If you found the dataset to be useful, we would appreciate it if you can cite th
 The camera calibration parameters used for our experiments can be found [here](https://drive.google.com/drive/folders/1YlVl2hoqWNwi6GGX6n_MqeNG-aWmeh9r?usp=share_link).
 
 The point cloud of the reference ground truth map can be downloaded [here](https://drive.google.com/file/d/1u5BC8rEQlA0BKoobgmP5GCCi2vJf58oz/view?usp=share_link).
+
+<details>
+  <summary><strong>Descriptions of LiDAR Sensor Configuration</strong></summary>
+
+  For `10_14` sequences (i.e., `campus_outdoor_1014_compressed` in the shared drive), LiDAR point clouds are acquired by Velodyne VLP-16.
+
+  For `12_07` and `12_08` sequences (i.e., `campus_tunnels_1207_compressed` and `campus_hybrid_1208_compressed`, respectively), some of the robots have different LiDAR setups.
+  `apis`, `sobek`, and `thoth` sequences are acquired by [OS1-64 Gen1 LiDAR sensors](https://data.ouster.io/downloads/datasheets/datasheet-gen1-v2p0-os1.pdf), which have a different hardware configuration from the [recent OS1-64 sensors](https://data.ouster.io/downloads/datasheets/datasheet-revd-v2p0-os1.pdf), while other robots have Velodyne VLP-16 sensors.
+
+  The extrinsics can be found [here](https://github.com/plusk01/Kimera-Multi-Data/tree/parker/kmd_tools) (but we appreciate your kind understanding that these extrinsics are not *perfect*. We are always open to contributions to our Kimera-Multi dataset!).
+</details>
