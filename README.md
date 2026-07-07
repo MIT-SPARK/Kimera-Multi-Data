@@ -74,9 +74,9 @@ If you found the dataset to be useful, we would appreciate it if you can cite th
 
 | Name | Rosbags | Photos | Trajectory | 
 |:-:|:-:|:-:|:-:|
-| Campus-Outdoor | [request](https://forms.gle/HoqTbSV1csiPr8gR9)  | <img src="figures/photos_outdoor.jpg" alt="drawing" width="400"/> | <img src="figures/1014_gt.png" alt="drawing" width="400"/> |
-| Campus-Tunnels | [request](https://forms.gle/HoqTbSV1csiPr8gR9)  | <img src="figures/photos_tunnels.jpg" alt="drawing" width="400"/> | <img src="figures/1207_gt.png" alt="drawing" width="400"/> |
-| Campus-Hybrid  | [request](https://forms.gle/HoqTbSV1csiPr8gR9)  | <img src="figures/photos_hybrid.jpg" alt="drawing" width="400"/>  | <img src="figures/1208_gt.png" alt="drawing" width="400"/> |
+| Campus-Outdoor | [request](https://forms.gle/L35NSrQcfbjqq2w56)  | <img src="figures/photos_outdoor.jpg" alt="drawing" width="400"/> | <img src="figures/1014_gt.png" alt="drawing" width="400"/> |
+| Campus-Tunnels | [request](https://forms.gle/L35NSrQcfbjqq2w56)  | <img src="figures/photos_tunnels.jpg" alt="drawing" width="400"/> | <img src="figures/1207_gt.png" alt="drawing" width="400"/> |
+| Campus-Hybrid  | [request](https://forms.gle/L35NSrQcfbjqq2w56)  | <img src="figures/photos_hybrid.jpg" alt="drawing" width="400"/>  | <img src="figures/1208_gt.png" alt="drawing" width="400"/> |
 
 <details>
   <summary><strong>Descriptions of LiDAR Sensor Configuration</strong></summary>
