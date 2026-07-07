@@ -72,15 +72,11 @@ If you found the dataset to be useful, we would appreciate it if you can cite th
 
 ## Download
 
-| Name | Rosbags | GT | Photos | Trajectory | 
-|:-:|:-:|:-:|:-:|:-:|
-| Campus-Outdoor | [request](https://forms.gle/EBHJE3LEKkTsnABu7)  | [link](https://drive.google.com/drive/folders/1LKUC7wLhlVuoxYRhSCZYUVAAffA9EpDy?usp=share_link) | <img src="figures/photos_outdoor.jpg" alt="drawing" width="400"/> | <img src="figures/1014_gt.png" alt="drawing" width="400"/> |
-| Campus-Tunnels | [request](https://forms.gle/EBHJE3LEKkTsnABu7)  | [link](https://drive.google.com/drive/folders/1iDibVlkZLyK856O7X8lEUInWK-Z0TXG3?usp=share_link) | <img src="figures/photos_tunnels.jpg" alt="drawing" width="400"/> | <img src="figures/1207_gt.png" alt="drawing" width="400"/> |
-| Campus-Hybrid  | [request](https://forms.gle/EBHJE3LEKkTsnABu7)  | [link](https://drive.google.com/drive/folders/1YQnJn8z_yGku-wkw8X_cYd8v5PABSbS7?usp=share_link) | <img src="figures/photos_hybrid.jpg" alt="drawing" width="400"/>  | <img src="figures/1208_gt.png" alt="drawing" width="400"/> |
-
-The camera calibration parameters used for our experiments can be found [here](https://drive.google.com/drive/folders/1YlVl2hoqWNwi6GGX6n_MqeNG-aWmeh9r?usp=share_link).
-
-The point cloud of the reference ground truth map can be downloaded [here](https://drive.google.com/file/d/1u5BC8rEQlA0BKoobgmP5GCCi2vJf58oz/view?usp=share_link).
+| Name | Rosbags | Photos | Trajectory | 
+|:-:|:-:|:-:|:-:|
+| Campus-Outdoor | [request](https://forms.gle/L35NSrQcfbjqq2w56)  | <img src="figures/photos_outdoor.jpg" alt="drawing" width="400"/> | <img src="figures/1014_gt.png" alt="drawing" width="400"/> |
+| Campus-Tunnels | [request](https://forms.gle/L35NSrQcfbjqq2w56)  | <img src="figures/photos_tunnels.jpg" alt="drawing" width="400"/> | <img src="figures/1207_gt.png" alt="drawing" width="400"/> |
+| Campus-Hybrid  | [request](https://forms.gle/L35NSrQcfbjqq2w56)  | <img src="figures/photos_hybrid.jpg" alt="drawing" width="400"/>  | <img src="figures/1208_gt.png" alt="drawing" width="400"/> |
 
 <details>
   <summary><strong>Descriptions of LiDAR Sensor Configuration</strong></summary>
